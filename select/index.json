@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "我愛你",
+  "base_artist": "Cody・Lee(李)",
+  "createdAt": "2026-02-12T01:53:15.024710Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "我愛你",
+      "artist": "盧廣仲",
+      "has_synced": true,
+      "path": "select/01_我愛你_盧廣仲.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "我愛你,再見",
+      "artist": "朴树",
+      "has_synced": true,
+      "path": "select/02_我愛你,再見_朴树.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "我愛你",
+      "artist": "Cody・Lee(李)",
+      "has_synced": false,
+      "path": "select/03_我愛你_Cody・Lee(李).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "對不起,我愛你 - 無綫電視劇《今生無悔》插曲",
+      "artist": "黎明",
+      "has_synced": true,
+      "path": "select/04_對不起,我愛你_-_無綫電視劇《今生無悔》插曲_黎明.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "對不起 我愛你_黎明",
+      "artist": "黎明",
+      "has_synced": true,
+      "path": "select/05_對不起_我愛你_黎明_黎明.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "我愛你",
+      "artist": "Crowd Lu",
+      "has_synced": true,
+      "path": "select/06_我愛你_Crowd_Lu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "我愛你",
+      "artist": "Cody・Lee(李)",
+      "has_synced": true,
+      "path": "select/07_我愛你_Cody・Lee(李).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "我愛你、所以",
+      "artist": "小藍背心",
+      "has_synced": false,
+      "path": "select/08_我愛你、所以_小藍背心.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "P.S. 我愛你",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/09_P.S._我愛你_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "P.S.我愛你",
+      "artist": "A-Lin",
+      "has_synced": true,
+      "path": "select/10_P.S.我愛你_A-Lin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Coffee, Tea or Me 我愛你",
+      "artist": "周華健",
+      "has_synced": true,
+      "path": "select/11_Coffee,_Tea_or_Me_我愛你_周華健.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "我愛你",
+      "artist": "許冠傑",
+      "has_synced": true,
+      "path": "select/12_我愛你_許冠傑.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "我愛你",
+      "artist": "盧廣仲 (Crowd Lu)",
+      "has_synced": true,
+      "path": "select/13_我愛你_盧廣仲_(Crowd_Lu).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Te Amo 我愛你",
+      "artist": "F4",
+      "has_synced": false,
+      "path": "select/14_Te_Amo_我愛你_F4.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "我愛你",
+      "artist": "Pets Tseng",
+      "has_synced": true,
+      "path": "select/15_我愛你_Pets_Tseng.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "我愛你",
+      "artist": "Cody・Lee(李)",
+      "has_synced": false,
+      "path": "select/pl_01_我愛你_Cody・Lee(李).txt"
+    }
+  ]
+}
