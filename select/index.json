@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "我愛你",
   "base_artist": "Cody・Lee(李)",
-  "createdAt": "2026-02-12T01:53:15.024710Z",
+  "createdAt": "2026-03-19T19:15:27.006583Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "Cody・Lee(李)",
       "has_synced": false,
       "path": "select/pl_01_我愛你_Cody・Lee(李).txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "我愛你",
+      "artist": "Cody・Lee(李)",
+      "has_synced": false,
+      "path": "select/localdb_01_我愛你_Cody・Lee(李).txt",
+      "repo_name": "uwS__WiOYTI"
     }
   ]
 }
